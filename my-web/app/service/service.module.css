@@ -1,3 +1,9 @@
 .link{
     color:aquamarine;
 }
+
+.procont {
+    color: white;
+    padding: 1cm;
+    border: 1px solid rgb(119, 69, 165)
+}
