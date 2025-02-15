@@ -12,3 +12,17 @@ body{
 h1 {
   color: yellow;
 }
+
+.row {
+  color: white;
+  padding: 1cm;
+  border: 1px solid blueviolet
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+
+}
