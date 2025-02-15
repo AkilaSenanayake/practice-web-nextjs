@@ -16,6 +16,10 @@ export default function Home() {
       <li>Contact</li>
       <li>Login</li>
     </ul>
+
+    <br></br>
+
+    <Link href="https://www.w3schools.com/typescript/" target="_blank">Learn Typescript</Link>
     </>
     
   );
